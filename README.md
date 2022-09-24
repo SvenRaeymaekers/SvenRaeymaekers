@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Sven Raeymaekers
 - 👀 I’m interested in software engineering, business, investing, crypto, solving problems, ...
-- 🌱 I’m currently learning API's of social media platforms (e.g. Twitter API V2) and PyQT5 (a Python GUI).
+- 🌱 I’m currently learning API's of social media platforms (e.g. Twitter API V2), PyQT5 (a Python GUI) and python automation scripts.
 - 💞️ I’m looking to collaborate on anything, don't hesitate to contact me.
 - 📫 You can reach me via email: raeymaekers.sven@gmail.com
 
