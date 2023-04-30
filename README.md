@@ -1,7 +1,7 @@
 Hi, my name is Sven Raeymaekers. <br>
 I have a M.Sc in Information Engineering Technology and am currently working as a Technology Consultant at Ernst&Young Belgium.<br>
 
-I am currently extending my web-dev skills by completing HTML/CSS and Javascript courses.
+I am currenlty going back to basics, by extending my web-dev skills,completing HTML/CSS and Javascript courses and exerecises.
 Next on the list will be ReactJS and NextJS. \
 <br>
 Don't hesitate to contact me at raeymaekers.sven@gmail.com.
