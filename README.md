@@ -1,10 +1,6 @@
 Hi, my name is Sven Raeymaekers. <br>
 I have a M.Sc in Information Engineering Technology and am currently working as a Senior Technology Consultant at Ernst&Young Belgium.<br>
 
-At this moment, I am working on my web-dev skills by completing HTML/CSS/Javascript courses & exercises and developing my personal website.
-Next on the list will be ReactJS and NextJS. \
-<br>
-Don't hesitate to contact me at raeymaekers.sven@gmail.com.
 
 <!---
 SvenRaeymaekers/SvenRaeymaekers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
